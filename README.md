@@ -12,7 +12,7 @@ A [heap](http://en.wikipedia.org/wiki/Heap_%28data_structure%29) is a data struc
 Heaps make it easy to access the highest or lowest value element in a set of data (always keeping it at the "top" of the heap). A **max heap** always keeps the maximum element at the root node (the topmost node), and a **min heap** always keeps the minimum element at the root.
 
 An example of a max heap:
-![Max Heap](http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max-Heap.svg/1200px-Max-Heap.svg.png)
+![Max Heap](heap.png)
 
 
 ## Instructions
