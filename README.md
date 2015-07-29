@@ -1,8 +1,4 @@
----
-tags: algorithms
-languages: ruby
-resources: 2
----
+
 # Algorithms Heap
 
 A [heap](http://en.wikipedia.org/wiki/Heap_%28data_structure%29) is a data structure that is a type of [tree](http://en.wikipedia.org/wiki/Tree_%28data_structure%29). According to Wikipedia, a data structure is said to be a heap if it satisfies the following "heap property":
